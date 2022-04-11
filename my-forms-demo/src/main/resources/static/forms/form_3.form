@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Prestamo Hipotecario",
+      "type": "text",
+      "id": "Field_0cuhbq7"
+    },
+    {
+      "label": "Monto prestamo",
+      "type": "textfield",
+      "id": "Field_1ijmr6b",
+      "key": "monto"
+    }
+  ],
+  "type": "default",
+  "id": "form3"
+}

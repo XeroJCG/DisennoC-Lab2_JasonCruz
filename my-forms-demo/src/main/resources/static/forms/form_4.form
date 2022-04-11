@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Prestamo Personal",
+      "type": "text",
+      "id": "Field_0w28vb4"
+    },
+    {
+      "label": "Monto Prestamo",
+      "type": "textfield",
+      "id": "Field_014zzwv",
+      "key": "monto"
+    }
+  ],
+  "type": "default",
+  "id": "form4"
+}
